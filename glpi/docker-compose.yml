@@ -1,3 +1,7 @@
+#porta de acesso: 80
+#Usuario de acesso: glpi
+#senha de acesso: glpi
+
 ---
 version: "3.8"
 services:

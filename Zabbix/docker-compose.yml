@@ -1,3 +1,7 @@
+#porta de acesso: 8008
+#usuario de acesso: Admin
+#Senha de acesso: zabbix
+
 ---
 version: "3.1"
 networks:

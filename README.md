@@ -1,5 +1,7 @@
 # Mba-Devops
 Repositorio criado para aula de git do Mba de Dvops
+https://github.com/rogersonoliveira/Mba-Devops
+
 
 
 Exercício - git e GitHub
